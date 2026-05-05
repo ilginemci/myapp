@@ -67,7 +67,7 @@ These results indicate a clear relationship between menstrual cycle phases and b
 ## Machine Learning
 A Logistic Regression model was trained to predict cycle phase from symptoms.  
 Evaluation includes accuracy, confusion matrix, and classification report.  
-The model performs better than a baseline and captures meaningful patterns, though limited by dataset size.
+The model performs better than a baseline and captures meaningful patterns.
 
 ---
 
