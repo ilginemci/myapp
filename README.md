@@ -65,9 +65,8 @@ These results indicate a clear relationship between menstrual cycle phases and b
 ---
 
 ## Machine Learning
-A Logistic Regression model was trained to predict cycle phase from symptoms.  
-Evaluation includes accuracy, confusion matrix, and classification report.  
-The model performs better than a baseline and captures meaningful patterns.
+
+A machine learning approach was used to predict menstrual cycle phases based on daily symptoms such as mood, cramps, energy and headache. Logistic Regression and Random Forest models were applied and evaluated using accuracy, confusion matrix and classification metrics. The results show that the models are able to capture meaningful patterns in the data with physical and emotional features contributing to phase prediction.
 
 ---
 
