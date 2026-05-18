@@ -95,7 +95,6 @@ This project demonstrates that menstrual cycle phases have a measurable and cons
 
 ---
 
-## Future Work
-- Extend dataset to longer time periods  
-- Apply statistical testing  
-- Build predictive models for symptom forecasting  
+## AI Assistance Disclosure
+
+AI tools were used during the development of this project for guidance on code structure, debugging, visualization ideas and report organization. All analysis, interpretations and final decisions were reviewed and adapted by the author.
