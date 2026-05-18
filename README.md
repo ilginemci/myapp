@@ -98,3 +98,32 @@ This project demonstrates that menstrual cycle phases have a measurable and cons
 ## AI Assistance Disclosure
 
 AI tools were used during the development of this project for guidance on code structure, debugging, visualization ideas and report organization. All analysis, interpretations and final decisions were reviewed and adapted by the author.
+
+---
+
+## How to Reproduce
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ilginemci/myapp.git
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Open notebooks in Google Colab
+
+- Go to https://colab.research.google.com
+- Upload the notebooks from the `notebooks/` folder
+- Run all cells in order
+
+Suggested execution order:
+
+1. `01_data_loading.ipynb`
+2. `02_eda.ipynb`
+3. `03_hypothesis.ipynb`
+4. `04_ml_model.ipynb`
